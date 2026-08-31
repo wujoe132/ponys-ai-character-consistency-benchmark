@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this test instrument, please cite the versioned dataset below."
+title: "Ponys Multilingual AI Character Consistency Benchmark: Preregistered Test Instrument"
+type: dataset
+version: 1.1.0
+date-released: 2026-08-30
+authors:
+  - name: "Ponys.ai Research"
+doi: 10.5281/zenodo.22172094
+url: "https://ponys.ai/"
+license: CC-BY-4.0
+repository-code: "https://huggingface.co/datasets/wujoe132/ponys-multilingual-ai-character-consistency-benchmark"
+abstract: "A preregistered 140-case instrument for AI character consistency, memory, identity and voice across seven locales. Results are not collected and the instrument is not a product ranking."

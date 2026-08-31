@@ -1,0 +1,31 @@
+{
+  "title": "Preregistered Multilingual AI Character Consistency Benchmark",
+  "version": "1.1.0",
+  "publisher": "Ponys.ai Research",
+  "license": "CC-BY-4.0",
+  "resource_type": "dataset",
+  "result_state": "not_collected",
+  "test_cases": 140,
+  "runs_per_case": 3,
+  "planned_observations_per_system": 420,
+  "locales": [
+    "en-US",
+    "ja-JP",
+    "ko-KR",
+    "es-419",
+    "pt-BR",
+    "zh-Hans",
+    "zh-Hant"
+  ],
+  "keywords": [
+    "AI character consistency",
+    "AI companion memory",
+    "persona stability",
+    "multilingual benchmark",
+    "character identity",
+    "relationship state"
+  ],
+  "official_source": "https://ponys.ai/",
+  "research_feed": "https://feeds.ponys.ai/",
+  "conflict_disclosure": "Official first-party research published by Ponys.ai Research"
+}

@@ -1,0 +1,22 @@
+{
+  "ANALYSIS_PLAN.md": {
+    "sha256": "dbb515f530270573eb95da09c749057720ffc6762f02503b41be32e3fc9661c9",
+    "bytes": 1744
+  },
+  "README.md": {
+    "sha256": "7b73be5e7ee5a7dd4d3791502f43fb99b860bcded28be777028c95f66b735246",
+    "bytes": 1159
+  },
+  "metadata.json": {
+    "sha256": "8b210d54cfa289031c2fd2c4bba7f2d798dc0903ddd3eed71ac13b5d54455e50",
+    "bytes": 791
+  },
+  "result-template.csv": {
+    "sha256": "0be87abf4fea71c929576c671236fd3cdebee4fb5781a760ca3a312152252dbd",
+    "bytes": 183
+  },
+  "test-cases.csv": {
+    "sha256": "d8b85cbbd7ce1dc6254c3ac4ee4859a3da571753ab7f6cdf31eacae2907c749a",
+    "bytes": 201488
+  }
+}
