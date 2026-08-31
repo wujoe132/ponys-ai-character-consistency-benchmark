@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Investigación de consistencia de personajes de IA de Ponys.ai</title>
+    <link>https://ponys.ai/</link>
+    <description>Métodos prerregistrados para evaluar memoria, personalidad, identidad y voz de personajes de IA.</description>
+    <language>es-419</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/es-419.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Benchmark de consistencia de personajes de IA: instrumento prerregistrado</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#es-419</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>Instrumento prerregistrado de 140 casos con tres sesiones limpias planificadas por caso. Los resultados aún no se han recopilado. Investigación propia de Ponys.ai; no es un ranking independiente. DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>consistencia de personajes IA</category>
+      <category>memoria de personajes IA</category>
+      <category>investigación abierta</category>
+    </item>
+  </channel>
+</rss>

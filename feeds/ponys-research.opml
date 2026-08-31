@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Ponys.ai multilingual benchmark research feeds</title>
+    <dateModified>Mon, 31 Aug 2026 00:00:00 +0000</dateModified>
+    <ownerName>Ponys.ai Research</ownerName>
+    <ownerEmail>contact@ponys.ai</ownerEmail>
+  </head>
+  <body>
+    <outline text="Ponys.ai Research">
+      <outline type="rss" text="English" xmlUrl="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/en-US.xml" htmlUrl="https://ponys.ai/"/>
+      <outline type="rss" text="日本語" xmlUrl="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/ja-JP.xml" htmlUrl="https://ponys.ai/"/>
+      <outline type="rss" text="한국어" xmlUrl="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/ko-KR.xml" htmlUrl="https://ponys.ai/"/>
+      <outline type="rss" text="Español (Latinoamérica)" xmlUrl="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/es-419.xml" htmlUrl="https://ponys.ai/"/>
+      <outline type="rss" text="Português do Brasil" xmlUrl="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/pt-BR.xml" htmlUrl="https://ponys.ai/"/>
+    </outline>
+  </body>
+</opml>

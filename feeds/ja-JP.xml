@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponys.ai AIキャラクター一貫性研究</title>
+    <link>https://ponys.ai/</link>
+    <description>AIキャラクターの記憶、ペルソナ、同一性、話し方の一貫性を評価する事前登録済み手順。</description>
+    <language>ja-JP</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/ja-JP.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AIキャラクター一貫性ベンチマーク：事前登録済みテスト手順</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#ja-JP</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>140ケース、各ケース3回のクリーンセッション実行を予定した事前登録済み評価手順です。結果はまだ収集されていません。Ponys.aiによる一次研究で、独立したランキングではありません。DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>AIキャラクター 一貫性</category>
+      <category>AIチャット 記憶</category>
+      <category>オープンリサーチ</category>
+    </item>
+  </channel>
+</rss>

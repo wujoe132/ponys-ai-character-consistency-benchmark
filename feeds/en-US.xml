@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponys.ai AI Character Consistency Research</title>
+    <link>https://ponys.ai/</link>
+    <description>Preregistered methods for evaluating AI character memory, persona stability, identity, and voice.</description>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/en-US.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Ponys multilingual AI character consistency benchmark: preregistered test instrument</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#en-US</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>A preregistered 140-case instrument with three clean-session runs planned per case. Results have not been collected. First-party research, not an independent ranking. DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>AI character consistency</category>
+      <category>AI companion memory</category>
+      <category>open research</category>
+    </item>
+  </channel>
+</rss>

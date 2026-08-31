@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponys.ai AI 캐릭터 일관성 연구</title>
+    <link>https://ponys.ai/</link>
+    <description>AI 캐릭터 기억력, 페르소나, 정체성 및 말투 일관성을 평가하는 사전 등록 방법.</description>
+    <language>ko-KR</language>
+    <lastBuildDate>Sun, 30 Aug 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/ko-KR.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>AI 캐릭터 일관성 벤치마크: 사전 등록된 테스트 도구</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#ko-KR</guid>
+      <pubDate>Sun, 30 Aug 2026 00:00:00 +0000</pubDate>
+      <description>140개 사례와 사례당 3회의 독립된 새 세션 실행을 계획한 사전 등록 도구입니다. 결과는 아직 수집되지 않았습니다. Ponys.ai의 1차 연구이며 독립적인 순위가 아닙니다. DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>AI 캐릭터 일관성</category>
+      <category>AI 채팅 기억력</category>
+      <category>오픈 리서치</category>
+    </item>
+  </channel>
+</rss>

@@ -28,3 +28,7 @@ A preregistered, reproducible test instrument for evaluating AI character consis
 ## Disclosure
 
 This is first-party research published by Ponys.ai Research, not independent editorial research. No benchmark results have been collected or reported.
+
+## Multilingual research feeds
+
+The `feeds/` directory contains RSS 2.0 feeds for independent research aggregators and publishers. Each feed carries the same preregistered instrument, DOI, first-party disclosure, and `not_collected` result state in its own locale. These feeds are distribution metadata; they do not modify the Ponys.ai product.
