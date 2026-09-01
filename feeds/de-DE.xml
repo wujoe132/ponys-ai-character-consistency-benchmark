@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponys.ai Forschung zur KI-Charakterkonsistenz</title>
+    <link>https://ponys.ai/</link>
+    <description>Präregistrierte Methoden zur Bewertung von Gedächtnis, Persona-Stabilität, Identität und Stimme von KI-Charakteren.</description>
+    <language>de-DE</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/de-DE.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Mehrsprachiger Benchmark zur KI-Charakterkonsistenz: präregistriertes Testinstrument</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#de-DE</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Ein präregistriertes Instrument mit 140 Testfällen und drei geplanten unabhängigen Sitzungen pro Fall. Ergebnisse wurden noch nicht erhoben. Forschung aus erster Hand, kein unabhängiges Produktranking. DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>KI-Charakterkonsistenz</category>
+      <category>KI-Begleiter-Gedächtnis</category>
+      <category>offene Forschung</category>
+    </item>
+  </channel>
+</rss>

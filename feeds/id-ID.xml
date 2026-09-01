@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Riset Konsistensi Karakter AI Ponys.ai</title>
+    <link>https://ponys.ai/</link>
+    <description>Metode praregistrasi untuk mengevaluasi memori, stabilitas persona, identitas, dan suara karakter AI.</description>
+    <language>id-ID</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/id-ID.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>Benchmark multibahasa konsistensi karakter AI: instrumen uji praregistrasi</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#id-ID</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>Instrumen praregistrasi dengan 140 kasus dan tiga sesi independen yang direncanakan untuk setiap kasus. Hasil belum dikumpulkan. Riset pihak pertama, bukan peringkat produk independen. DOI: https://doi.org/10.5281/zenodo.22172094</description>
+      <category>konsistensi karakter AI</category>
+      <category>memori pendamping AI</category>
+      <category>riset terbuka</category>
+    </item>
+  </channel>
+</rss>

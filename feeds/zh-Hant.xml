@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ponys.ai AI 角色一致性研究</title>
+    <link>https://ponys.ai/</link>
+    <description>用於評估 AI 角色記憶、人格穩定性、身分與語音一致性的預先註冊研究方法。</description>
+    <language>zh-Hant</language>
+    <lastBuildDate>Tue, 01 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://raw.githubusercontent.com/wujoe132/ponys-ai-character-consistency-benchmark/main/feeds/zh-Hant.xml" rel="self" type="application/rss+xml"/>
+    <item>
+      <title>多語言 AI 角色一致性基準：預先註冊測試工具</title>
+      <link>https://ponys.ai/</link>
+      <guid isPermaLink="false">urn:doi:10.5281/zenodo.22172094#zh-Hant</guid>
+      <pubDate>Tue, 01 Sep 2026 00:00:00 +0000</pubDate>
+      <description>預先註冊的 140 個固定測試案例，每個案例規劃三次獨立乾淨工作階段測試。結果尚未收集。本資料為 Ponys.ai 第一方研究，並非獨立產品排名。DOI：https://doi.org/10.5281/zenodo.22172094</description>
+      <category>AI 角色一致性</category>
+      <category>AI 伴侶記憶</category>
+      <category>開放研究</category>
+    </item>
+  </channel>
+</rss>
